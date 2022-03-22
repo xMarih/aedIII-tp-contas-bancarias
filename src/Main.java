@@ -367,6 +367,8 @@ public class Main {
         
         
         ContaBancaria cb = new ContaBancaria();
+        
+        
 
         // Move ponteiro para início do arquivo após o cabeçalho
         fout.seek(0);
