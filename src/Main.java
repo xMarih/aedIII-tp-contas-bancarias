@@ -360,7 +360,7 @@ public class Main {
         int tamRegistro;
         long pos;
         byte ba[];
-        boolean flagEncontrado = false;
+        boolean flagEncontrado = false;  
         ContaBancaria cb = new ContaBancaria();
 
         // Move ponteiro para início do arquivo após o cabeçalho
