@@ -361,6 +361,11 @@ public class Main {
         long pos;
         byte ba[];
         boolean flagEncontrado = false;  
+        
+        
+        
+        
+        
         ContaBancaria cb = new ContaBancaria();
 
         // Move ponteiro para início do arquivo após o cabeçalho
